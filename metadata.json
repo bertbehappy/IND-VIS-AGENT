@@ -1,0 +1,6 @@
+{
+  "name": "工業設備視覺監控系統",
+  "description": "24x7 工業設備視覺監控 AI Agent。透過攝影機捕捉設備面板，解析運作狀態、溫濕度與異常告警。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
